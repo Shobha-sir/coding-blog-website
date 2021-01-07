@@ -1,0 +1,25 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri":"mysql://root:@localhost/codingthunder",
+    "fb_url":"https://facebook.com/codingthunder",
+    "tw_url":"https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "Coding Blog",
+    "tag_line": "Evrything about python",
+    "gmail-user":"shreya1singh713@gmail.com",
+    "gmail-password":"Shreya@2001",
+    "about_text": "Hi my name is Shobha and I created this website using flask. I am pursuing B.tech in ECE stream from MNIT Jaipur  ",
+
+    "no_of_posts": 2,
+    "login_image":"login.svg",
+    "admin_user":"shobha",
+    "admin_password": "shobha",
+    "upload_location": "C:\\Users\\shobh\\PycharmProjects\\flaskproject\\static"
+  }
+
+}
+
+
